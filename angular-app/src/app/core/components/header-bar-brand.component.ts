@@ -13,7 +13,7 @@ import { Component } from '@angular/core';
         <i class="fab js-logo fa-angular fa-2x" aria-hidden="true"></i>
       </a>
       <a class="navbar-item nav-home" router-link="/">
-        <span class="brand-first">御成門プログラマーの</span>
+      <span class="brand-first">御成門プログラマーの</span>
         <span class="brand-second">Static Web Apps</span>
         <span class="brand-third">ページ</span>
       </a>
